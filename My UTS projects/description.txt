@@ -1,5 +1,7 @@
 Web Development project (2025/3-4
 A virtual grocery store with satisfying visual effects. Data can persist after refreshing as it is stored in a fake API.
+https://storage.googleapis.com/grocerystore-ng/frontend/index.html
 
 Wireless Sensor Network Project (2025/4-5
 A wireless system that monitors environment stats (Temperature, humidity, light intensity) and send them to raspberry pi, saved using flask+SQLite and displayed on an HTML dashboard.
+https://henry-ng.com/wsn-proj/
